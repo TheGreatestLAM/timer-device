@@ -1,0 +1,13 @@
+AD/AD-timer-device/History/
+AD/AD-timer-device/Project Logs for AD-timer-device/
+AD/AD-timer-device/Simulation/
+Proteus/Project Backups/
+STM32-timer-device/Debug/
+STM32-timer-device/Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+.DS_Store
+Thumbs.db

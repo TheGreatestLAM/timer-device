@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\dev\timer-device\AD\AD-timer-device\Project Outputs for AD-timer-device\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21.09.26
+Time:       11:51
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                                             
+U2         AOZ1282CI          TopLayer    AO-SOT23-6L-6_V               2015.000      4440.000      180      "EZBuck(TM) 1.2 A Simple Buck Regulator, 4.5 to 36 V, -40 to 85 degC, 6-Pin SOT23-6L, RoHS, Tape and Reel"              
+U1         STM32F401CBU6TR    TopLayer    STM-UFQFPN48_L                2960.000      3750.000      0        "ARM Cortex-M4 32-bit MCU+FPU, 128 KB Flash, 64 KB Internal RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tape and Reel" 
+SW2        B3F-4000           TopLayer    FP-B3F-4000-MFG               3570.000      3305.000      0        "SWITCH TACTILE SPST-NO 0.05A 24V"                                                                                      
+SW1        B3U-1000P-B        TopLayer    FP-B3U-1000P-B-MFG            3305.000      3760.000      90       "SWITCH TACTILE SPST-NO 0.05A 12V"                                                                                      
+R19        AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               1335.000      3625.000      0        "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R18        AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               1535.000      3625.000      0        "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R17        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               1145.000      3383.697      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R16        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               1365.000      3383.697      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R15        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               1605.000      3383.697      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R14        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               1840.000      3383.697      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R13        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               2085.000      3383.697      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R12        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               2315.000      3445.000      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R11        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               2555.000      3450.000      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R10        RMCF0603JG220R     BottomLayer FP-RMCF0603-MFG               2760.000      3450.000      180      "220? ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                        
+R9         AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               1735.000      3625.000      0        "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R8         AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               1900.000      3625.000      0        "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R7         AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               2060.000      3625.000      0        "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R6         RMCF0603FT15K8     TopLayer    FP-RMCF0603-IPC_B             2205.000      4475.000      0        "15.8k? ±1% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                      
+R5         RMCF0603FG49K9     TopLayer    FP-RMCF0603-MFG               2345.000      4350.000      180      "49.9k? ±1% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                                      
+R4         CRCW0603100KFKEI   TopLayer    FP-CRCW0603-e3-MFG            1480.000      4650.000      0        "RES Thick Film, 100k?, 1%, 0.1W, 100ppm/°C, 0603"                                                                      
+R3         AC0603JR-7W10KL    TopLayer    FP-AC0603-IPC_A               2675.000      3970.000      180      "RES 10k? 5.00% 0.2W 0603"                                                                                              
+R2         RC0603FR-07330RL   TopLayer    RESC1608X55X25NL10T15         2985.000      4250.000      180      "Chip Resistor, 330 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                       
+R1         AC0603JR-7W10KL    BottomLayer FP-AC0603-IPC_A               3625.000      3770.000      270      "RES 10k? 5.00% 0.2W 0603"                                                                                              
+Q5         AO3401A            BottomLayer AO-SOT-23-3L_V                1355.000      3905.000      180      "P-Channel MOSFET, 30 V, 4 A, -55 to 150 degC, 3-Pin SOT-23-3L, RoHS, Tape and Reel"                                    
+Q4         AO3401A            BottomLayer AO-SOT-23-3L_V                1525.000      3905.000      180      "P-Channel MOSFET, 30 V, 4 A, -55 to 150 degC, 3-Pin SOT-23-3L, RoHS, Tape and Reel"                                    
+Q3         AO3401A            BottomLayer AO-SOT-23-3L_V                1695.000      3905.000      180      "P-Channel MOSFET, 30 V, 4 A, -55 to 150 degC, 3-Pin SOT-23-3L, RoHS, Tape and Reel"                                    
+Q2         AO3401A            BottomLayer AO-SOT-23-3L_V                1870.000      3905.000      180      "P-Channel MOSFET, 30 V, 4 A, -55 to 150 degC, 3-Pin SOT-23-3L, RoHS, Tape and Reel"                                    
+Q1         AO3401A            BottomLayer AO-SOT-23-3L_V                2050.000      3905.000      180      "P-Channel MOSFET, 30 V, 4 A, -55 to 150 degC, 3-Pin SOT-23-3L, RoHS, Tape and Reel"                                    
+L1         LQH55DN220M03L     TopLayer    FP-LQH55DN_03-MFG             2305.000      4135.000      0        "Wire Wound Ferrite Inductor for Power Lines 22?H ±20% 0.266?  1.2A 2220"                                               
+K1         AQY272             TopLayer    FP-AQY272-MFG                 2875.000      4630.000      90       "SSR RELAY SPST-NO 2A 0-60V"                                                                                            
+J3         22-28-4057         TopLayer    FP-22-28-4057-MFG             3840.000      3920.000      270      "KK 100 HDR ASSY BKWY 05 CKT 30 S"                                                                                      
+J2         XT30UPB-M          TopLayer    AMASS_XT30UPB-M               3795.000      4595.000      270      "Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; yellow; 15A; 500V"                                                
+J1         XT30UPB-M          TopLayer    AMASS_XT30UPB-M               1215.000      4553.425      270      "Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; yellow; 15A; 500V"                                                
+DS1        LTC-4627G          TopLayer    FP-LTC-4627G-MFG              1975.000      2985.000      0        "LED 7-SEG 4DIGIT GRN 0.4" CA"                                                                                          
+D1         SS36               TopLayer    FP-403AG-MFG                  1980.000      3895.000      270      "DIODE SCHOTTKY 60V 3A SMC"                                                                                             
+C12        KRM55LR71H106KH01K TopLayer    FP-KRM55L-6_1_5_3_3_1_2-C-MFG 1720.000      4160.000      270      "Cap Ceramic Multilayer 10uF 50V ±10% 2220 Emboss T/R"                                                                  
+C11        KRM55LR71H106KH01K TopLayer    FP-KRM55L-6_1_5_3_3_1_2-C-MFG 1460.000      4160.000      270      "Cap Ceramic Multilayer 10uF 50V ±10% 2220 Emboss T/R"                                                                  
+C10        KRM55LR71H106KH01K TopLayer    FP-KRM55L-6_1_5_3_3_1_2-C-MFG 2515.000      3740.000      270      "Cap Ceramic Multilayer 10uF 50V ±10% 2220 Emboss T/R"                                                                  
+C9         KRM55LR71H106KH01K TopLayer    FP-KRM55L-6_1_5_3_3_1_2-C-MFG 2260.000      3740.000      270      "Cap Ceramic Multilayer 10uF 50V ±10% 2220 Emboss T/R"                                                                  
+C8         C0805S104K5RACTU   TopLayer    CAPC2013X145X50NL20T25        2010.000      4205.000      180      "100 nF 50 VDC X7R 10 % 0805"                                                                                           
+C7         C0805S104K5RACTU   TopLayer    CAPC2013X145X50NL20T25        3515.000      4030.000      90       "100 nF 50 VDC X7R 10 % 0805"                                                                                           
+C6         C0805S104K5RACTU   TopLayer    CAPC2013X145X50NL20T25        3385.000      4030.000      90       "100 nF 50 VDC X7R 10 % 0805"                                                                                           
+C5         C0805S104K5RACTU   TopLayer    CAPC2013X145X50NL20T25        3250.000      4030.000      90       "100 nF 50 VDC X7R 10 % 0805"                                                                                           
+C4         C0805S104K5RACTU   TopLayer    CAPC2013X145X50NL20T25        3120.000      4030.000      90       "100 nF 50 VDC X7R 10 % 0805"                                                                                           
+C3         GRM155C80J475ME01D TopLayer    FP-GRM155-0_2-MFG             2970.000      4030.000      270      "4.7 uF
+GRM155C80J475ME01D"                                                                                            
+C2         GRM155C80J475ME01D BottomLayer FP-GRM155-0_2-MFG             3100.000      3501.299      270      "4.7 uF
+GRM155C80J475ME01D"                                                                                            
+C1         C0805S104K5RACTU   BottomLayer CAPC2013X145X50NL20T25        3515.000      3770.000      270      "100 nF 50 VDC X7R 10 % 0805"                                                                                           

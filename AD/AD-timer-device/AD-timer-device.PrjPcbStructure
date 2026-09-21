@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=7segLED.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=7segLED.SchDoc|FileName=DC-DC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=7segLED.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=7segLED.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
