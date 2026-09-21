@@ -1,0 +1,3 @@
+[submodule "STM32-timer-device"]
+	path = STM32-timer-device
+	url = https://github.com/TheGreatestLAM/STM32-timer-device
